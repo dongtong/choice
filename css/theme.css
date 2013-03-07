@@ -1,0 +1,13 @@
+.chooser {
+	font: normal 18px Calibri, sans-serif;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+.chooser dt {
+	border-right: 1px solid #000;
+}
+
+.chooser dd span {
+	color: #444;
+	background-color: #97EE97;
+}
